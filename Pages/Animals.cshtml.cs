@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace TestRazor.Pages
 {
-    public class EgypteModel : PageModel
+    public class Index1Model : PageModel
     {
         public void OnGet()
         {
